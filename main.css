@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	width: 100%;
+	height: 100vh;
+	margin: 0;
+	overflow: hidden;
+}
+
+.curved{
+	background: #D35400;
+	color: white;
+	text-align: center;
+}
+
+.curved h1{
+	font-size: 6rem;
+	font-family: inherit;
+
+}
+
+.curved p{
+	font-size: 1rem;
+	font-family: "Adobe Caslon Pro";
+	margin: 0 5em 0em 5em;
+}
+
+.curved svg{
+	display: block;
+}
+
+.curved.upper{
+	background: white;
+}
